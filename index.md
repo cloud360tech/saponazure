@@ -17,7 +17,7 @@ The Course will be conducted by Nikhil Khanzode - A Microsoft Certified Trainer 
 
 The Trainer has 25+ Certifications across various Cloud Platforms along with hands-on experience in multiple large-scale complex SAP Migrations to Cloud.
 
-![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png =250x250)
+![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilkhanzode/?originalSubdomain=in)
 
@@ -54,4 +54,4 @@ Designed for IT Professionals / System Administrators who seek a deep-dive into 
 | ~~USD 400~~ USD 299 | ~~USD 700~~ USD 449  | ~~USD 1299~~ USD 999 |
 
 ### Course Registration
-Please Visit the [Form Here] (https://forms.gle/raHhKo8C3YsZSmhs8) for Registration. You can pay using PayPal and will get a confirmation email upon registration.
+Please Visit the [Form Here](https://forms.gle/raHhKo8C3YsZSmhs8) for Registration. You can pay using PayPal and will get a confirmation email upon registration.
