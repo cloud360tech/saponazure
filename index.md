@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Cloud360.Tech - SAP HANA on Azure MasterClass
 
-You can use the [editor on GitHub](https://github.com/cloud360tech/saponazure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Learn everything a Basis Administrator should know, about Designing, Deploy, Migrating and Managing SAP HANA on Azure
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
