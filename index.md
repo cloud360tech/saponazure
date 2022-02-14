@@ -5,33 +5,47 @@ Learn everything a Basis Administrator should know, about Designing, Deploy, Mig
 
 ## Course Overview
 
-Since 2019, there has been an exponential adoption of Cloud IaaS compared to the previous years. This is mainly due to orgnanisations understanding the true potential of Cloud Infrastructure, and the Digital Transformation Opportunities around the same.
+Since 2018, there has been an exponential adoption of Cloud IaaS compared to the previous years. This is mainly due to orgnanisations understanding the true potential of Cloud Infrastructure, and the Digital Transformation Opportunities around the same.
 
 It has now become essential for SAP HANA & Basis Administrators to step-up in the game, and bridge the gap between OS / Platform Administrators and Basis Administrators.
 
 This course aims to bring every Basis Administrator or aspiring SAP on Cloud Admin to pace, and to help them understand Cloud IaaS Terminologies better.
 
-# Header 1
-## Header 2
-### Header 3
+## About The Trainer 
 
-- Bulleted
-- List
+The Course will be conducted by Nikhil Khanzode - A Microsoft Certified Trainer and Senior Cloud Solutions Architect, having an experience of designing, managing and migrating 50+ Large SAP HANA Landscapes to Azure & other Public Cloud Environments.
 
-1. Numbered
-2. List
+The Trainer has 25+ Certifications across various Cloud Platforms along with hands-on experience in multiple large-scale complex SAP Migrations to Cloud.
 
-**Bold** and _Italic_ and `Code` text
+![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)
 
-[Link](url) and ![Image](src)
-```
+## Course Options
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- SAP on Azure - Overview  (4 Hours)
+Designed for IT Professionals who wish to understand fundamentals on running SAP on Azure. 
+- SAP on Azure - Basics (8 Hours)
+Designed for IT Professionals / System Administrators who seek to understand fundamentals on running SAP on Azure, along with knowledge of Hands-On Azure Infrastructure Deployment and Setup
+- SAP on Azure - Advanced (16 Hours)
+Designed for IT Professionals / System Administrators who seek a deep-dive into Running SAP on Azure. This Course includes various aspects like Azure Fundamentals, Architecting SAP Workloads, Migration Deepdive and Best Practices. 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloud360tech/saponazure/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Plan Comparison
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Overview     | Basics        | Advanced       |
+| ------------- | ------------- | --------------
+| Duration: 4 Hours  | Duration: 8 Hours | Duration: 16 Hours  |
+| Understanding Azure Technologies| Understanding Azure Technologies  | Understanding Azure Technologies |
+| Virtualisation Basics | Virtualisation Basics  | Virtualisation Basics |
+| IaaS / PaaS / SaaS Terminologies | IaaS / PaaS / SaaS Terminologies  | IaaS / PaaS / SaaS Terminologies |
+| SAP on Azure - Deployment Scenarios | SAP on Azure - Deployment Scenarios  | SAP on Azure - Deployment Scenarios |
+|  | SLES Concepts  | SLES Concepts |
+|  | Deploying SAP Workloads on Azure  | Deploying SAP Workloads on Azure  |
+|  | Architecting for Resiliency | Architecting for Resiliency   |
+|  | Monitoring SAP on Azure | Monitoring SAP on Azure  |
+|  |  | High Availability and Disaster Recovery  |
+|  |  | Migrating SAP HANA to Azure  |
+|  |  | Leveraging Azure BI Toolset |
+|  |  | Securing your SAP Landscape on Azure |
+|  |  | Modernising Your SAP Landscape on Azure |
+|  |  | Optimising Your SAP Landscape on Azure |
+| USD 299 | USD 449  | USD 999 |
