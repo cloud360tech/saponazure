@@ -17,7 +17,7 @@ The Course will be conducted by Nikhil Khanzode - A Microsoft Certified Trainer 
 
 The Trainer has 25+ Certifications across various Cloud Platforms along with hands-on experience in multiple large-scale complex SAP Migrations to Cloud.
 
-![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)
+![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png =250x250)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilkhanzode/?originalSubdomain=in)
 
@@ -36,6 +36,7 @@ Designed for IT Professionals / System Administrators who seek a deep-dive into 
 | Overview     | Basics        | Advanced       |
 | ------------- | ------------- | --------------
 | Duration: 4 Hours  | Duration: 8 Hours | Duration: 16 Hours  |
+| Course Delivery: Google Meet  | Course Delivery: Google Meet | Course Delivery: Google Meet  |
 | Understanding Azure Technologies| Understanding Azure Technologies  | Understanding Azure Technologies |
 | Virtualisation Basics | Virtualisation Basics  | Virtualisation Basics |
 | IaaS / PaaS / SaaS Terminologies | IaaS / PaaS / SaaS Terminologies  | IaaS / PaaS / SaaS Terminologies |
@@ -50,4 +51,7 @@ Designed for IT Professionals / System Administrators who seek a deep-dive into 
 |  |  | Securing your SAP Landscape on Azure |
 |  |  | Modernising Your SAP Landscape on Azure |
 |  |  | Optimising Your SAP Landscape on Azure |
-| USD 299 | USD 449  | USD 999 |
+| ~~USD 400~~ USD 299 | ~~USD 700~~ USD 449  | ~~USD 1299~~ USD 999 |
+
+### Course Registration
+Please Visit the [Form Here] (https://forms.gle/raHhKo8C3YsZSmhs8) for Registration. You can pay using PayPal and will get a confirmation email upon registration.
