@@ -3,12 +3,13 @@
 Learn everything a Basis Administrator should know, about Designing, Deploy, Migrating and Managing SAP HANA on Azure
 
 
-### Markdown
+## Course Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since 2019, there has been an exponential adoption of Cloud IaaS compared to the previous years. This is mainly due to orgnanisations understanding the true potential of Cloud Infrastructure, and the Digital Transformation Opportunities around the same.
 
-```markdown
-Syntax highlighted code block
+It has now become essential for SAP HANA & Basis Administrators to step-up in the game, and bridge the gap between OS / Platform Administrators and Basis Administrators.
+
+This course aims to bring every Basis Administrator or aspiring SAP on Cloud Admin to pace, and to help them understand Cloud IaaS Terminologies better.
 
 # Header 1
 ## Header 2
