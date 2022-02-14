@@ -55,3 +55,12 @@ Designed for IT Professionals / System Administrators who seek a deep-dive into 
 
 ### Course Registration
 Please Visit the [Form Here](https://forms.gle/raHhKo8C3YsZSmhs8) for Registration. You can pay using PayPal and will get a confirmation email upon registration.
+
+### Participation Benefits
+All Candidates will have to undergo a Hands-On Practical Assignment after Completion of the Course. Candidates who complete the asisgnments successfully will be eligible for a Signed Certificate by the Trainer.
+
+### Course Commencement
+All Courses will begin after 15th March 2022. There will be two batches available - EST - Morning and EST - Late Evening. You can pick one depending on your convenience.
+
+## Reach Us
+For any Queries, Suggestions, Details, Bulk / Group Discounts or Payment in other Currencies, please reach out to - connect@cloud360.tech 
