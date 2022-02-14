@@ -19,6 +19,8 @@ The Trainer has 25+ Certifications across various Cloud Platforms along with han
 
 ![Microsft Certified Trainer](https://images.credly.com/size/680x680/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilkhanzode/?originalSubdomain=in)
+
 ## Course Options
 
 - SAP on Azure - Overview  (4 Hours)
